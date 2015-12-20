@@ -1,0 +1,11 @@
+Hi there,
+
+By choosing Beginning Ruby Nanodegree, I have decided to start a very long journey in order to become a senior developer.
+
+I have several goals to reach in mind
+
+First : learning a coding langage giving real opportunities to be involved into valuables projects.
+
+Second : Because I don't have a real developer background (Except few experiences by developing html and css pages as exercises at school).I really want to get a developer mind set in order to be able to understand any kind of software architecture and whatever the coding langage is.
+
+Third : Improving my professional skills currently I am holding a position of functional PM and I have to get in touch more and more with the dev team in order to validate technical points. 
